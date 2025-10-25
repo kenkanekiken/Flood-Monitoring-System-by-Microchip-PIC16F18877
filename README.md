@@ -41,6 +41,15 @@ Youtube Video URL: https://youtube.com/shorts/hK0vwFBc_S0?si=l7SeD1ebDUvhcPaS
 	•	Simulating and debugging embedded systems in Proteus
 
 ⸻
+
+⚙️ Components Used
+	•	DC motor
+	•	Moisture Sensor
+	•	Motion Sensor
+	•	Buzzer
+	
+⸻
+
 🧾 Author
 
 kenkanekiken
